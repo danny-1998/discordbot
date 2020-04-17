@@ -1,0 +1,8 @@
+{
+  "name": "SupG",
+  "version": "0.0.1",
+  "description": "Discord bot made to display the amount of players on the Minecraft server 'Jectile'",
+  "main": "game.js",
+  "author": "Dorus van Weelden",
+  "license": "MIT"
+}
